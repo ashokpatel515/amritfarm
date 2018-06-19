@@ -1,0 +1,3 @@
+[07-Jun-2018 17:31:28 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home/amritfar/public_html/wp-content/plugins/hello.php on line 60
+[07-Jun-2018 17:31:54 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home/amritfar/public_html/wp-content/plugins/hello.php on line 60
+[07-Jun-2018 17:31:56 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home/amritfar/public_html/wp-content/plugins/hello.php on line 60

@@ -1,0 +1,19 @@
+[09-Apr-2018 04:27:51 UTC] PHP Fatal error:  Maximum execution time of 180 seconds exceeded in /home/amritfar/public_html/wp-includes/cache.php on line 533
+[09-Apr-2018 06:19:42 UTC] PHP Fatal error:  Call to undefined function twentyseventeen_is_frontpage() in /home/amritfar/public_html/wp-content/themes/amrit/header.php on line 68
+[19-Apr-2018 02:55:04 UTC] PHP Parse error:  syntax error, unexpected '3' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/amritfar/public_html/wp-content/themes/amrit/template-parts/page/content-front-page.php on line 13
+[19-Apr-2018 02:58:39 UTC] PHP Parse error:  syntax error, unexpected '3' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/amritfar/public_html/wp-content/themes/amrit/template-parts/page/content-front-page.php on line 13
+[19-Apr-2018 02:58:50 UTC] PHP Parse error:  syntax error, unexpected '3' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/amritfar/public_html/wp-content/themes/amrit/template-parts/page/content-front-page.php on line 13
+[08-May-2018 12:24:19 UTC] PHP Warning:  Illegal string offset 'url' in /home/amritfar/public_html/wp-content/themes/amrit/template-parts/page/content-front-page.php on line 124
+[08-May-2018 12:24:19 UTC] PHP Warning:  Illegal string offset 'alt' in /home/amritfar/public_html/wp-content/themes/amrit/template-parts/page/content-front-page.php on line 124
+[08-May-2018 12:24:19 UTC] PHP Warning:  Illegal string offset 'url' in /home/amritfar/public_html/wp-content/themes/amrit/template-parts/page/content-front-page.php on line 127
+[08-May-2018 12:24:19 UTC] PHP Warning:  Illegal string offset 'alt' in /home/amritfar/public_html/wp-content/themes/amrit/template-parts/page/content-front-page.php on line 127
+[08-May-2018 12:24:19 UTC] PHP Warning:  Illegal string offset 'url' in /home/amritfar/public_html/wp-content/themes/amrit/template-parts/page/content-front-page.php on line 130
+[08-May-2018 12:24:19 UTC] PHP Warning:  Illegal string offset 'alt' in /home/amritfar/public_html/wp-content/themes/amrit/template-parts/page/content-front-page.php on line 130
+[08-May-2018 12:24:19 UTC] PHP Warning:  Illegal string offset 'url' in /home/amritfar/public_html/wp-content/themes/amrit/template-parts/page/content-front-page.php on line 136
+[08-May-2018 12:24:19 UTC] PHP Warning:  Illegal string offset 'alt' in /home/amritfar/public_html/wp-content/themes/amrit/template-parts/page/content-front-page.php on line 136
+[08-May-2018 12:24:19 UTC] PHP Warning:  Illegal string offset 'url' in /home/amritfar/public_html/wp-content/themes/amrit/template-parts/page/content-front-page.php on line 138
+[08-May-2018 12:24:19 UTC] PHP Warning:  Illegal string offset 'alt' in /home/amritfar/public_html/wp-content/themes/amrit/template-parts/page/content-front-page.php on line 138
+[08-May-2018 12:29:23 UTC] PHP Warning:  Illegal string offset 'url' in /home/amritfar/public_html/wp-content/themes/amrit/template-parts/page/content-front-page.php on line 138
+[08-May-2018 12:29:23 UTC] PHP Warning:  Illegal string offset 'alt' in /home/amritfar/public_html/wp-content/themes/amrit/template-parts/page/content-front-page.php on line 138
+[08-May-2018 12:30:11 UTC] PHP Warning:  Illegal string offset 'url' in /home/amritfar/public_html/wp-content/themes/amrit/template-parts/page/content-front-page.php on line 138
+[08-May-2018 12:30:11 UTC] PHP Warning:  Illegal string offset 'alt' in /home/amritfar/public_html/wp-content/themes/amrit/template-parts/page/content-front-page.php on line 138
